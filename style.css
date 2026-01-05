@@ -98,9 +98,6 @@ h1 {
     font-size: 20px;
     margin-top: 40px;
     color: #9A9494;
-}
-
-.active {
     border-left: 3px solid black;
     padding-left: 6px;
 }
